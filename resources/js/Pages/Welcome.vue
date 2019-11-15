@@ -6,11 +6,13 @@
 </template>
 
 <script>
-import Layout from '@/Shared/Layout'
+import Layout from '@/Shared/Layout';
+import Login from '@/Pages/Login';
 
 export default {
   components: {
     Layout,
+    Login,
   },
 }
 </script>
