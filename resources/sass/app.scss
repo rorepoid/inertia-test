@@ -1,9 +1,5 @@
+@import "./node_modules/tailwindcss/base";
 
-// Tailwind
-@import url('https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css');
+@import "./node_modules/tailwindcss/components";
 
-// Fonts
-@import url('https://fonts.googleapis.com/css?family=Nunito');
-
-// Variables
-@import 'nprogress';
+@import "./node_modules/tailwindcss/utilities";
